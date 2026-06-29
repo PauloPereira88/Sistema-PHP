@@ -52,7 +52,7 @@ require 'conexao.php';
                 </div>
                 <div class="mb-3">
                   <label>Senha</label>
-                  <input type="passwor" name="senha" class="form-control">
+                  <input type="password" name="senha" class="form-control">
                 </div>
                 <div class="mb-3">
                   <button type="submit" name="update_usuario" class="btn btn-primary">Atualizar</button>
